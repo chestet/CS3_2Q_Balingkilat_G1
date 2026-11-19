@@ -3,3 +3,5 @@ This is the project repository for 2nd Quarter in CS3
 
 # Judy M. Valera Jr.
 Nueva Ecija Goat of Ruby, Sampaguita, and Balingkilat
+# Chester Gabriel A. Rivera
+1D is life.
