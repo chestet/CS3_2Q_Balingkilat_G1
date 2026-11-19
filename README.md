@@ -2,4 +2,4 @@
 This is the project repository for 2nd Quarter in CS3
 
 # Judy M. Valera Jr.
-Groupmate 3
+Nueva Ecija Goat of Ruby, Sampaguita, and Balingkilat
