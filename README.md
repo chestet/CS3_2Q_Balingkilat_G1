@@ -5,3 +5,5 @@ This is the project repository for 2nd Quarter in CS3
 Nueva Ecija Goat of Ruby, Sampaguita, and Balingkilat
 # Chester Gabriel A. Rivera
 1D is life.
+# Lumen Christi S. Cato
+Loves sleeping but doesn't sleep
